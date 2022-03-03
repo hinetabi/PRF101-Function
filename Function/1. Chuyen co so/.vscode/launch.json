@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\1. FPT\\1. FPT_SU21\\1. PRF\\Tu hoc\\1. Function\\1. Chuyen co so",
+      "environment": [],
+      "program": "d:\\1. FPT\\1. FPT_SU21\\1. PRF\\Tu hoc\\1. Function\\1. Chuyen co so\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Users\\Legion\\Dev-Cpp\\MinGW64\\bin\\gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
